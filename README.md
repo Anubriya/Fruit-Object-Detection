@@ -11,6 +11,9 @@
 - Built a Streamlit Web App for real-time fruit detection  
 - Hosted online using Hugging Face Spaces
 
+### Dataset Link
+https://drive.google.com/drive/folders/1I6rt-ya86AZPOmSYpFFxThapvx37_1F1
+
 ### Features
 - Upload an image
 - Perform object detection
