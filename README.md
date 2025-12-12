@@ -11,6 +11,12 @@
 - Built a Streamlit Web App for real-time fruit detection  
 - Hosted online using Hugging Face Spaces
 
+## 🚀 Live Demo (Hugging Face Space)
+
+You can try the deployed Fruit Detection App here:
+
+🔗 **https://anubriya-fruit-detection-using-yolov8.hf.space/**  
+
 ### Dataset Link
 https://drive.google.com/drive/folders/1I6rt-ya86AZPOmSYpFFxThapvx37_1F1
 
@@ -34,4 +40,4 @@ Trained for 30 epochs on custom dataset.
 2. Click "Detect Fruits"
 3. View results on screen
 
-By Anubriya.B
+By **Anubriya.B**
