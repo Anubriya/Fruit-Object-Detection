@@ -1,6 +1,8 @@
 # Fruit-Object-Detection
 🍎🍌🍊 Fruit Detection using YOLOv8  A deep-learning project that detects Apples, Bananas, and Oranges using a trained YOLOv8 Object Detection model. This project includes dataset preparation, training, evaluation, visualization, Streamlit app deployment.
 
+---
+
 ## 🚀 Project Overview
 - Trained YOLOv8n model on custom fruit dataset  
 - Evaluated using:
@@ -11,6 +13,8 @@
 - Built a Streamlit Web App for real-time fruit detection  
 - Hosted online using Hugging Face Spaces
 
+---
+
 ## 🚀 Live Demo (Hugging Face Space)
 
 You can try the deployed Fruit Detection App here:
@@ -19,6 +23,8 @@ You can try the deployed Fruit Detection App here:
 
 ### Dataset Link
 https://drive.google.com/drive/folders/1I6rt-ya86AZPOmSYpFFxThapvx37_1F1
+
+---
 
 ### Features
 - Upload an image
@@ -35,9 +41,20 @@ https://drive.google.com/drive/folders/1I6rt-ya86AZPOmSYpFFxThapvx37_1F1
 ### Model
 Trained for 30 epochs on custom dataset.
 
+---
+
 ### How to Use
 1. Upload an image
 2. Click "Detect Fruits"
 3. View results on screen
 
-By **Anubriya.B**
+Author
+**Anubriya Baskaran**
+
+---
+
+### 📌 Note
+This project was developed as part of an academic program.
+The implementation, code structure, and documentation are original.
+Unauthorized reuse for academic submissions is discouraged.
+
