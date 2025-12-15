@@ -47,9 +47,11 @@ Trained for 30 epochs on custom dataset.
 1. Upload an image
 2. Click "Detect Fruits"
 3. View results on screen
+   
 
-Author
-**Anubriya Baskaran**
+## 👩‍💻 Author
+
+**Anubriya Baskaran**  
 
 ---
 
